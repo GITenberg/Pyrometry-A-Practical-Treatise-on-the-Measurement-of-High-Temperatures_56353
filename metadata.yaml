@@ -1,11 +1,16 @@
 _repo: Pyrometry-A-Practical-Treatise-on-the-Measurement-of-High-Temperatures_56353
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56353-h/images/cover.jpg
 creator:
   author:
     agent_name: Darling, Chas. R.
     gutenberg_agent_id: '48798'
     url: http://www.gutenberg.org/2009/agents/48798
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56353#Pyrometry-A-Practical-Treatise-on-the-Measurement-of-High-Temperatures
 gutenberg_issued: '2018-01-10'
 gutenberg_type: Text
 identifiers:
